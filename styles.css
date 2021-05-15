@@ -5,11 +5,26 @@ body{
 #header{
     height: 15vh;
     background-color: black;
-    color:#FFFF;
+    color:#FFFFFF;
 
 }
 h2 {
     text-transform: uppercase;
+}
+.card{
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    
+}
+.iam{
+    margin: 20px;
+}
+.titulo{
+    color: #1DA1F2;
+}
+.presentacion{
+    background-color: #FFFFFF;
 }
 .foto-perfil{
     width: 90px;
